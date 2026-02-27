@@ -1,0 +1,8 @@
+.env
+leads.log
+process.lock
+agent.log
+agent.log.*.old
+data/state.db
+data/*.lock
+data/*
